@@ -1,0 +1,6 @@
+flask
+gevent
+eventlet
+flask-socketio==4.3.2
+python-socketio
+tornado
